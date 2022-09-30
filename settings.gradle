@@ -1,0 +1,6 @@
+rootProject.name = 'sample-kafka'
+
+include 'docker-compose'
+include 'kafka-consumer'
+include 'kafka-producer'
+include 'reactor-kafka-producer'
